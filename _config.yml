@@ -1,6 +1,6 @@
-title: Urban Template
-url: "https://teal-worm.cloudvent.net"
-baseurl:
+title: DS Portfolio
+url: "https://hkg90.github.io/urban-jekyll-template/"
+baseurl: "https://hkg90.github.io/urban-jekyll-template/"
 google_analytics_key:
 google_maps_javascript_api_key:
 disqus_shortname:
@@ -10,9 +10,9 @@ description: Jekyll template with example content for a web agency.
 
 # Author details for the jekyll-seo-tag gem
 author:
-  name:
-  email:
-  twitter: # twitter username without the @ symbol
+  name: Denise Suter
+  email: denise.suter90@gmail.com
+  twitter: JustD3wIt # twitter username without the @ symbol
 
 # Social details for the jekyll-seo-tag gem
 social:
