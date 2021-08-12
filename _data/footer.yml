@@ -12,19 +12,19 @@
       link: /contact/
 - title: Social
   links:
-    - name: Facebook
-      link: https://facebook.com/cloudcannon/
-      social_icon: Facebook
+    - name: GitHub
+      link: https://github.com/hkg90
+      social_icon: GitHub
       new_window: true
     - name: Twitter
-      link: https://twitter.com/cloudcannon/
+      link: https://twitter.com/justd3wit/
       social_icon: Twitter
       new_window: true
-    - name: Instagram
-      link: https://instagram.com/
-      social_icon: Instagram
-      new_window: true
+    # - name: Instagram
+    #   link: https://instagram.com/
+    #   social_icon: Instagram
+    #   new_window: true
     - name: LinkedIn
-      link: https://nz.linkedin.com/company/cloud-cannon
+      link: https://www.linkedin.com/in/denise-suter-7464a032
       social_icon: LinkedIn
       new_window: true
